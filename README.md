@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Foelli
 - 👀 I’m interested in doing fun stuff
 - 🌱 I’m currently learning how to do this whole thing (Java)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... fun and moneymaking things
 - 📫 How to reach me ... (don't try, it's not worth it yet)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Switzerland prohibits the ownership of just one guinea pig
