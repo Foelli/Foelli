@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foelli
+- 👋 Hi, I’m @Simon
 - 👀 I’m interested in doing fun stuff
 - 🌱 I’m currently learning how to do this whole thing (Java)
 - 💞️ I’m looking to collaborate on ... fun and moneymaking things
