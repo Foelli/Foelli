@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simon
-- 👀 I’m interested in frontend, backend, web.
-- 🌱 I’m currently learning everything in Mobile Computing and IoT.
+- 👀 I’m interested in Mobile, Web, Frontend/Backend.
+- 🌱 I’m currently learning studying everything Mobile Computing and IoT.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Switzerland prohibits the ownership of just one guinea pig
 
